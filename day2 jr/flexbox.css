@@ -1,0 +1,12 @@
+.content{
+    display: flex;
+    flex-direction: row;
+    height:600px;
+    background-color: lightskyblue;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    margin:5px;
+}

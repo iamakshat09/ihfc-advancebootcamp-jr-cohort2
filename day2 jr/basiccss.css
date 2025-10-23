@@ -1,0 +1,23 @@
+.content{
+    background-color: blueviolet;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    background-color: aquamarine;
+    font-size: 50px;
+}
+
+.para{
+    color:lightgray;
+}
+
+.block{
+    display:block;
+    background-color: antiquewhite;
+}
+
+.inline{
+    display:inline;
+    background-color: chartreuse;
+}

@@ -1,0 +1,50 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color:blueviolet
+}
+
+.header{
+    display:flex;
+    background-color: antiquewhite;
+    border:2px solid black;
+    padding:5px
+}
+
+.content{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.hobby{
+    display: flex;
+    justify-content: center;
+}
+
+.goal{
+    display:flex;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+    margin:5px;
+    background-color: lightpink;
+    border:1px solid black;
+}
+
+.website{
+    background-color: antiquewhite;
+    border:1px solid black;
+    padding:5px;
+}
+
+.footer{
+    background-color: antiquewhite;
+    border:1px solid black;
+    padding:5px; 
+}
